@@ -21,7 +21,7 @@
     gulp serve:dist
     ```
     
-##教學投影片
+## 教學投影片
 
 [Lesson1](https://docs.google.com/presentation/d/1-YWVTh2uz0z5kD-m296R7KZEbUO-Bp3rBx29-meSP3E)
 
